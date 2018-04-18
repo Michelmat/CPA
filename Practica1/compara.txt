@@ -1,0 +1,8 @@
+Abierta una imagen de n:512, m:512
+Par 8 hilos el tiempo de ejecucion es 0.964610
+Abierta una imagen de n:512, m:512
+Par 8 hilos el tiempo de ejecucion es 1.050845
+Abierta una imagen de n:512, m:512
+Par 8 hilos el tiempo de ejecucion es 15.110611
+Abierta una imagen de n:512, m:512
+Par 8 hilos el tiempo de ejecucion es 265.554544
